@@ -13,4 +13,4 @@
 3. ReactJS로 player & playlist 컴포넌트 생성
 4. 음악 리스트의 해당 리스트를 선택하면 그 음악이 play
 5. 불필요한 새로고침을 최대한 줄여보는것이 관건
-6. 볼륨 up, down bar 만들기
+6. 볼륨 up, down 만들기
