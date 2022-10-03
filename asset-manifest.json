@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ambient-player/static/css/main.2ec09fd6.css",
-    "main.js": "/ambient-player/static/js/main.ad22b301.js",
+    "main.css": "/ambient-player/static/css/main.08909827.css",
+    "main.js": "/ambient-player/static/js/main.10ac9ddd.js",
     "static/js/845.97dad0f9.chunk.js": "/ambient-player/static/js/845.97dad0f9.chunk.js",
     "static/media/Piano_Music_Quick_Positive_Energy_Meditation.mp3": "/ambient-player/static/media/Piano_Music_Quick_Positive_Energy_Meditation.6eb90e4d681b936d4e63.mp3",
     "static/media/Piano_Music_for_Good_Memories_Peaceful_Music.mp3": "/ambient-player/static/media/Piano_Music_for_Good_Memories_Peaceful_Music.3e6a2ea39de0b0354c3d.mp3",
@@ -12,12 +12,12 @@
     "static/media/01.png": "/ambient-player/static/media/01.c25d6183fcabfae4c9c1.png",
     "static/media/02.png": "/ambient-player/static/media/02.f6cc2f841621c9603592.png",
     "index.html": "/ambient-player/index.html",
-    "main.2ec09fd6.css.map": "/ambient-player/static/css/main.2ec09fd6.css.map",
-    "main.ad22b301.js.map": "/ambient-player/static/js/main.ad22b301.js.map",
+    "main.08909827.css.map": "/ambient-player/static/css/main.08909827.css.map",
+    "main.10ac9ddd.js.map": "/ambient-player/static/js/main.10ac9ddd.js.map",
     "845.97dad0f9.chunk.js.map": "/ambient-player/static/js/845.97dad0f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ec09fd6.css",
-    "static/js/main.ad22b301.js"
+    "static/css/main.08909827.css",
+    "static/js/main.10ac9ddd.js"
   ]
 }
