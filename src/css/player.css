@@ -35,7 +35,7 @@
 
 .player-container__title > div:first-child {
   font-size: 13px;
-  padding-top: 40px;
+  padding-top: 80px;
 }
 
 .player-container__title > div:nth-child(2) {
@@ -49,7 +49,7 @@
   position: relative;
   display: flex;
   align-items: center;
-  margin-bottom: 40px;
+  margin-bottom: 100px;
 }
 
 .player-container__play-stop button {
